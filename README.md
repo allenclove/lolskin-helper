@@ -1,9 +1,13 @@
 # lolskin-helper
 Can't find champion? The lolskin-helper can help you use Lolskin.
 
+# 我为什么要做这个小程序
+1. 当我使用lolskin的时候，我时常找不到我选择的英雄（我喜欢每把都玩不一样的英雄）
+2. 我认为那些可以在游戏中换肤的软件读写了游戏内存，是容易违规（封号）的操作
+3. 那些换肤软件一定是有利可图的，免费的有广告（病毒？）/ 收费的要钱
 
-# Why do I use easy language
-Because I think easy languages can make a form executable program very quickly
+# 为什么使用易语言
+因为我觉得易语言可以很轻松就制作一个可执行的exe窗口程序
 
 1. 我曾经使用过python制作exe程序,效果并不好。首先是样式不好看而且组件位置也不好调整。现在可能有其他方式进行调整组件布局方便很多,我没有继续学习和研究了
 2. 听说C#很适合用来制作exe程序,但是由于本人非C#程序员,暂时没有时间去学习和制作
@@ -46,6 +50,9 @@ Because I think easy languages can make a form executable program very quickly
 
 
 # 注意事项
+1. 易语言程序，众所周知很容易报病毒。害怕请互尝试
+2. win10，win11亲测可用。win7未测试（如果不能用，我也没办法（检查一下是否赋予了管理员权限））
+3. 游戏运行期间请勿开启lolskin（可能有检测机制）
 
 
 # 学习推荐

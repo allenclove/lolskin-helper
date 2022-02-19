@@ -33,6 +33,9 @@ Can't find champion? The lolskin-helper can help you use Lolskin.
  2. 点击第一个按钮后会自动打开lolskin，如果游戏客户端打开了会自动开启自动选择 英雄功能
  3. 按esc可以直接退出程序，本助手退出后，lolskin将不具有自动选择英雄功能， 请确保先打开lol客户端后通过**lolskin助手**打开lolskin
 
+## 不想管这么多，我想直接用
+蓝奏云链接：https://wwa.lanzouw.com/ikKFk00ciiih
+
 # 更新日志
 ### 调用百度文字识别api（较麻烦，对客户端大小有限制，bug较多）
 - 1.0~1.2版本，初版

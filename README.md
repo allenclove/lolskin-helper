@@ -50,8 +50,8 @@ Can't find champion? The lolskin-helper can help you use Lolskin.
 - 3.0版本，添加自动开启lolskin，修复重复开启lolskin，修复获取到相同英雄后lolskin页面不刷新
 
 # 程序使用相关教程
-b站：https://www.bilibili.com/video/BV1FS4y1k7Vj?spm_id_from=333.999.0.0
-视频中出现的lol自动接受源码：https://github.com/allenclove/lolAutoAcceptance
+- b站：https://www.bilibili.com/video/BV1FS4y1k7Vj?spm_id_from=333.999.0.0
+- 视频中出现的lol自动接受源码：https://github.com/allenclove/lolAutoAcceptance
 
 # 注意事项
 1. 易语言程序，众所周知很容易报病毒。害怕请互尝试

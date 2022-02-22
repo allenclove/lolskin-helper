@@ -51,7 +51,7 @@ Can't find champion? The lolskin-helper can help you use Lolskin.
 
 # 程序使用相关教程
 - b站：https://www.bilibili.com/video/BV1FS4y1k7Vj?spm_id_from=333.999.0.0
-- 视频中出现的lol自动接受源码：https://github.com/allenclove/lolAutoAcceptance
+- 视频中出现的lol自动接受（eletron版）源码：https://github.com/allenclove/lolAutoAcceptance
 
 # 注意事项
 1. 易语言程序，众所周知很容易报病毒。害怕请互尝试
@@ -60,7 +60,9 @@ Can't find champion? The lolskin-helper can help you use Lolskin.
 
 
 # 学习推荐
-
+## 吾爱破解
+- 无法调用lolApi？Lockfile不在刷新，教你用更方便的方法调用：https://www.52pojie.cn/thread-1555054-1-1.html
+- lol自动接受（易语言版）源码分享以及lolApi相关使用教程：https://www.52pojie.cn/thread-1410459-1-1.html
 
 # 后续计划
 1. 由于本人时间有限，后续可能不再更新易语言版本，随缘了。有需要的可以自行下载代码修改编译【代码比较简单，认真研究就能上手修改了】。
